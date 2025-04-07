@@ -1,0 +1,11 @@
+{
+    "name": "Anubhuti Goyal",
+    "bio": "Student | Learner | Poet",
+    "links": [
+      {
+        "name": "Follow me on GitHub",
+        "url": "https://github.com/anubhutigoyal",
+        "icon": "FaGithub"
+      }
+    ]
+  }
